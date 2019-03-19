@@ -14,6 +14,8 @@ cd MotionCube
 xed .
 ```
 
+For running the simulator press Cmd + R
+
 ## Demo
 
 <img src="https://media.giphy.com/media/pzdGbHEvLVxS05SmIc/giphy.gif" width="300">
